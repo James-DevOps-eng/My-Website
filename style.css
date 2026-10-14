@@ -1,0 +1,44 @@
+﻿/*General Style Pages*/
+
+/*Body Style*/
+body
+{
+    font-family: serif;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: left;
+    background-color: #F5F5DC;
+    color: #63631c;
+}
+
+/*Header Style*/
+header
+{
+    font-family: serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #c7c738;
+    color: #c83737;
+}
+
+/*Navigation Style*/
+nav
+{
+    background-color:#efe4c3;
+    text-align: center;
+    padding: 12px;
+}
+    nav a {
+        color: #b43131;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 28px;
+        padding: 10px;
+    }
+
+    nav a:hover
+    {
+        background-color: #c8a637;
+    }
+
